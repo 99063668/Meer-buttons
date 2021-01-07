@@ -1,0 +1,29 @@
+#container{
+    top: 10px;
+    padding: 82px;
+    margin: auto;
+    width: 450px;
+    background-color: white;
+    position: relative;
+}
+
+body{
+    background-color: grey;
+}
+
+#buttons{
+    margin-bottom: 30px;
+}
+
+button{
+    background-color: #4CAF50;
+    border: 1px solid black;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
